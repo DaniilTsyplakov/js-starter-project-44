@@ -12,10 +12,10 @@ const playBrainEven = () => {
   while (correctAnswerCount < 3) {
     const randomNumber = Math.floor(Math.random() * 100 + 1);
     console.log(`Question: ${randomNumber}`);
-    const userAnswer = readlineSync.question('Your answer: ');
+    const userAnswer = readlineSync.question('Your answer: ').toLowerCase();
 
     const correctAnswer = isEven(randomNumber) ? 'Yes' : 'No';
-    if (userAnswer === correctAnswer) {
+    if (userAnswer === correctAnswer.toLowerCase()) {
       console.log('Correct');
       correctAnswerCount += 1;
     } else {
