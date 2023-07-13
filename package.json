@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/DaniilTsyplakov/js-starter-project-44/workflows/hexlet-check/badge.svg)](https://github.com/DaniilTsyplakov/js-starter-project-44/actions)",
   "bin": {
-    "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-games": "games/brain-games",
+    "brain-even": "games/index.js",
+    "brain-calc": "games/index.js"
   },
   "main": "index.js",
   "scripts": {
