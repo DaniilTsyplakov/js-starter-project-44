@@ -3,4 +3,4 @@
 [![Actions Status](https://github.com/DaniilTsyplakov/js-starter-project-44/workflows/hexlet-check/badge.svg)](https://github.com/DaniilTsyplakov/js-starter-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9f5cc23f72c608b8bd19/maintainability)](https://codeclimate.com/github/DaniilTsyplakov/js-starter-project-44/maintainability)
 
-brain-games demo https://asciinema.org/a/lqiuzRHMtmejPBEWslYQ9ygfQ
+brain-games demo https://asciinema.org/a/0WStJdLf00uOQqu5hp1v4uO7Q
