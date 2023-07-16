@@ -7,7 +7,8 @@
     "brain-even": "games/index.js",
     "brain-calc": "games/index.js",
     "brain-gcd": "games/index.js",
-    "brain-progressive": "games/index.js"
+    "brain-progressive": "games/index.js",
+    "brain-prime": "games/index.js"
   },
   "main": "index.js",
   "scripts": {
